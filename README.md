@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samira Saljoughi</h1>
-<h3 align="center">BSc Electrical Engineering Student at Amirkabir University of Technology</h3>
 
 - 📫 How to reach me **samira.saljoughi802001@gmail.com**
 
